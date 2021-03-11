@@ -1,6 +1,6 @@
 # Digital Geographies Final Essay
 
-<img src="images/AEM_Map.PNG" width="1500" height="1500" alt="Anti-Eviction Map" />
+<img src="images/Map.PNG" width="1000" height="1000" alt="Anti-Eviction Map" />
 
 ## Essay Introduction:
   The current Coronavirus pandemic was certainly one of the more devasting societal happenings that has occurred in recent memory. The global response to the pandemic has resulted in all people of all nations having to face a tremendous amount of adversity over the past year. Specifically, many Americans have had to deal with the financial, economic, and societal impacts that the pandemic has brought upon them. In response to the current events that we are experiencing, I decided to write this final essay with a focus on the impact COVID-19 has had on housing evictions on a global scale as part of my analysis of a digital geographies-related project. This essay will analyze a COVID-19 Anti-Eviction Map that was produced by the Anti-Eviction Mapping Project that you can access following this link: https://covid19.antievictionmap.com/ 
